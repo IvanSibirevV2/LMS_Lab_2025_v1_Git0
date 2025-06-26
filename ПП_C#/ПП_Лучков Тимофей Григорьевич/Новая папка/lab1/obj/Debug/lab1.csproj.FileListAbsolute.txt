@@ -1,0 +1,16 @@
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.LoginForm.resources
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\pepel\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\pepel\source\repos\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\pepel\source\repos\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.exe.config
+C:\Users\pepel\source\repos\lab1\lab1\bin\Debug\MySql.Data.dll
+C:\Users\pepel\source\repos\lab1\lab1\bin\Debug\MySql.Data.xml
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.csproj.Up2Date
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.RegisterForm.resources
+C:\Users\pepel\source\repos\lab1\lab1\obj\Debug\lab1.MainForm.resources
